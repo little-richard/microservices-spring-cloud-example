@@ -1,0 +1,3 @@
+[submodule "support/spring-cloud-config-server/config-repo"]
+	path = support/spring-cloud-config-server/config-repo
+	url = https://github.com/ramsantos/config-repo.git
